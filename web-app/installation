@@ -1,0 +1,8 @@
+-> Run the following command 
+
+pip install streamlit 
+
+-> Example : Run in terminal
+
+streamlit hello 
+

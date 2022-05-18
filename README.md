@@ -13,12 +13,7 @@ As the file size were too big, input_images_and_videos directory is not pushed t
 
 
 # UI Code Demo
-These are placed under web-app folder
-
-To run the UI code, we have to use streamlit.
-
-
-
+These are placed under web-app folder. To run the UI code, you have to use streamlit.
 
 <img width="928" alt="web1" src="https://user-images.githubusercontent.com/70734407/168957445-7db7fb8f-d15e-42af-9541-461b39155fbb.png">
 <img width="922" alt="web2" src="https://user-images.githubusercontent.com/70734407/168957459-ec0d3294-00f0-4259-b623-844053e80935.png">

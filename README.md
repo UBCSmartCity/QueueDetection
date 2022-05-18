@@ -3,15 +3,21 @@ The TensorFlow Object Counting API is an open source framework built on top of T
 
 # Results
 
+
 <img width="476" alt="1" src="https://user-images.githubusercontent.com/70734407/168950429-f7a0bc2c-b97b-41d1-a56f-33df2d1177a1.png">
 <img width="474" alt="2" src="https://user-images.githubusercontent.com/70734407/168950434-bf9bb52d-91a5-4408-b7ef-d03467ae6a6a.png">
 
 
 
-https://user-images.githubusercontent.com/70734407/168956342-03dce521-83e5-403a-a242-f4ba2886e759.mp4
+As the file size were too big, input_images_and_videos directory is not pushed to git. You can manually add the directory if you want to use your own dataset or get it from official documentation of TensorFlow Object Counting API.
 
 
-https://user-images.githubusercontent.com/70734407/168956360-1d418631-646e-43eb-93eb-3fed9592d317.mp4
+# UI Code Demo
+These are placed under web-app folder
+
+To run the UI code, we have to use streamlit.
+
+
 
 
 

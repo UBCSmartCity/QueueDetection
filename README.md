@@ -1,7 +1,6 @@
 
 # TensorFlow Object Counting API
-The TensorFlow Object Counting API is an open source framework built on top of TensorFlow and Keras that makes it easy to develop object counting systems. *** We used this API for our queue detection task and modified parameters such as roi , deviation and functions to place roi line in x or y axis***
-
+The TensorFlow Object Counting API is an open source framework built on top of TensorFlow and Keras that makes it easy to develop object counting systems. *** We used this API for our queue detection task and modified parameters such as roi , deviation and functions to place roi line in x or y axis ***
 
 # Results
 
@@ -351,6 +350,7 @@ If you use this code for your publications, please cite it as:
         url    = "https://github.com/ahmetozlu/tensorflow_object_counting_api"
     }
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 ## Author
 Ahmet Özlü
@@ -364,5 +364,7 @@ This system is available under the MIT license. See the LICENSE file for more in
  #   Q u e u e D e t e c t i o n 
  
  
+=======
+>>>>>>> 90c53b1d9215ed3056a06d8870fc394979464bb2
 =======
 >>>>>>> 90c53b1d9215ed3056a06d8870fc394979464bb2

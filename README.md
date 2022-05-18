@@ -1,6 +1,11 @@
 # TensorFlow Object Counting API
 The TensorFlow Object Counting API is an open source framework built on top of TensorFlow and Keras that makes it easy to develop object counting systems. ***Please contact if you need professional object detection & tracking & counting project with the super high accuracy and reliability!***
 
+# Results
+
+<img width="476" alt="1" src="https://user-images.githubusercontent.com/70734407/168950429-f7a0bc2c-b97b-41d1-a56f-33df2d1177a1.png">
+<img width="474" alt="2" src="https://user-images.githubusercontent.com/70734407/168950434-bf9bb52d-91a5-4408-b7ef-d03467ae6a6a.png">
+
 ## QUICK DEMO
 
 ---
@@ -350,7 +355,10 @@ Ahmet Özlü
 
 ## License
 This system is available under the MIT license. See the LICENSE file for more info.
-#   M L  
- #   Q u e u e D e t e c t i o n  
- #   Q u e u e D e t e c t i o n  
- 
+#� �M�L�
+�
+�#� �Q�u�e�u�e�D�e�t�e�c�t�i�o�n�
+�
+�#� �Q�u�e�u�e�D�e�t�e�c�t�i�o�n�
+�
+�
